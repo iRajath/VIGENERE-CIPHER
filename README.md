@@ -72,7 +72,7 @@ return 0;
 ```
 
 ## OUTPUT
-<img width="1484" height="1109" alt="image" src="https://github.com/user-attachments/assets/6e7ffa5f-ca52-48eb-ac94-b549d6467b23" />
+<img width="1253" height="982" alt="image" src="https://github.com/user-attachments/assets/a2c5da76-691d-4f0d-9e5d-44164b73b9e6" />
 
 ## RESULT
 Thus the given Vigenere Cipher has been executed successfully.
